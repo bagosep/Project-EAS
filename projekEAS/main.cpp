@@ -18,6 +18,4 @@ int main()
     system("CLS");
     }while(pesan=="ya");
     nota();
-
-    return 0;
 }
